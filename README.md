@@ -28,7 +28,7 @@ Performed a k-NN classification model utilizing open data on 5000 customers from
  
 ### 5. COVID-19 Dashboard - [Visual](https://github.com/MelissaPR24/mpaniagua.git) 
 
-This is an exmaple of a US COVID dashboard I made utilizing Google Data Sudio.
+This is an example of a US COVID dashboard I made utilizing Google Data Sudio.
 
 ### 6. Sankey Diagram - [Visual](https://github.com/MelissaPR24/mpaniagua.git) 
 
