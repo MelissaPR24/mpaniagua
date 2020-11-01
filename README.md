@@ -10,7 +10,7 @@ Some of my interests are data visualization, data mining and analytics, and mach
 
 ## Projects
 
-### 1. American Universities Clustering Model - [Document,](https://github.com/MelissaPR24/ML_MelissaPR.git/mpaniagu-4.pdf)
+### 1. American Universities Clustering Model - [Document,](https://github.com/MelissaPR24/ML_MelissaPR.git)
 
 Implemented unsupervised K-means model to cluster universities based on different measurements to get insights and make predictions.
 
