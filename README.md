@@ -22,11 +22,11 @@ Classified flight status utilizing a Naive Bayes supervised model to predict if 
 
 Developed an LP model to find the optimal solution to minimize the combined cost of production from each plant and shipping to different warehouses.
 
-### 4. COVID-19 Dashboard - [Visual](https://public.tableau.com/profile/melissa6374#!/?newProfile=&activeTab=0) 
+### 4. COVID-19 Dashboard - [Visual](https://github.com/MelissaPR24/mpaniagua.git) 
 
 This is an exmaple of a US COVID used dashboard I made utilizing Google Data Sudio.
 
-### 5. Sankey Diagram - [Visual](https://public.tableau.com/profile/melissa6374#!/?newProfile=&activeTab=0) 
+### 5. Sankey Diagram - [Visual](https://github.com/MelissaPR24/mpaniagua.git) 
 
 Built a Sankey flow Diagram to understand Americans’ academic path and identify the highest dropout rates to get insights.
 
