@@ -1,6 +1,6 @@
 ## Welcome to my website!
 
-**Hi! I** am Melissa, and I made this website to share my projects and some visualizations I have made.
+Hi! I am Melissa, and I made this website to share my projects and some visualizations I have made.
 
 I am passionate about data! I love how we can use suitable data to gain business insights and make informed decisions, and not just to observe how a company is doing through descriptive statistics, but also to make predictions. This motivated me to start graduate school and grow in the art of data. 
 
