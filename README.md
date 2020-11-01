@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to my website!
 
-You can use the [editor on GitHub](https://github.com/MelissaPR24/mpaniagua/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**Hi! I** am Melissa, and I made this website to share my projects and some visualizations I have made.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am passionate about data! I love how we can use suitable data to gain business insights and make informed decisions, and not just to observe how a company is doing through descriptive statistics, but also to make predictions. This motivated me to start graduate school and grow in the art of data. 
 
-### Markdown
+Some of my interests are data visualization, data mining and analytics, and machine learning algorithms.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![bio-photo](https://user-images.githubusercontent.com/69952860/97793013-3318d880-1bbc-11eb-822c-fad4fb98666d.jpg)
 
-```markdown
-Syntax highlighted code block
+## Projects
 
-# Header 1
-## Header 2
-### Header 3
+### 1. American Universities Clustering Model - [Document,](https://github.com/MelissaPR24/ML_MelissaPR.git/mpaniagu-4.pdf)
 
-- Bulleted
-- List
+Implemented unsupervised K-means model to cluster universities based on different measurements to get insights and make predictions.
 
-1. Numbered
-2. List
+### 2. Flight Status Classification Model
 
-**Bold** and _Italic_ and `Code` text
+Classified flight status utilizing a Naive Bayes supervised model to predict if a new flight with being classified as delayed or on-time.
 
-[Link](url) and ![Image](src)
-```
+### 3. Transportation Problem in LP
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Developed an LP model to find the optimal solution to minimize the combined cost of production from each plant and shipping to different warehouses.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MelissaPR24/mpaniagua/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
