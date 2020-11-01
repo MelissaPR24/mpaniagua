@@ -10,15 +10,26 @@ Some of my interests are data visualization, data mining and analytics, and mach
 
 ## Projects
 
-### 1. American Universities Clustering Model - [Document,](https://github.com/MelissaPR24/ML_MelissaPR.git)
+### 1. American Universities Clustering Model - [Document](https://github.com/MelissaPR24/ML_MelissaPR.git)
 
 Implemented unsupervised K-means model to cluster universities based on different measurements to get insights and make predictions.
 
-### 2. Flight Status Classification Model
+### 2. Flight Status Classification Model - [Document](https://github.com/MelissaPR24/ML_MelissaPR.git)
 
 Classified flight status utilizing a Naive Bayes supervised model to predict if a new flight with being classified as delayed or on-time.
 
-### 3. Transportation Problem in LP
+### 3. Transportation Problem in LP - [Document](https://github.com/MelissaPR24/QM_MelissaPR.git)
 
 Developed an LP model to find the optimal solution to minimize the combined cost of production from each plant and shipping to different warehouses.
 
+### 4. COVID-19 Dashboard - [Visual](https://public.tableau.com/profile/melissa6374#!/?newProfile=&activeTab=0) 
+
+This is an exmaple of a US COVID used dashboard I made utilizing Google Data Sudio.
+
+### 5. Sankey Diagram - [Visual](https://public.tableau.com/profile/melissa6374#!/?newProfile=&activeTab=0) 
+
+Built a Sankey flow Diagram to understand Americans’ academic path and identify the highest dropout rates to get insights.
+
+## Resume 
+
+Please click [Here](https://github.com/MelissaPR24/ML_MelissaPR.git) you can find my curriculum for further information. 
