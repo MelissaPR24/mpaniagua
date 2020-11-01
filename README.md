@@ -22,11 +22,15 @@ Classified flight status utilizing a Naive Bayes supervised model to predict if 
 
 Developed an LP model to find the optimal solution to minimize the combined cost of production from each plant and shipping to different warehouses.
 
-### 4. COVID-19 Dashboard - [Visual](https://github.com/MelissaPR24/mpaniagua.git) 
+### 4. Acceptance Loan Classification Model - [Document](https://github.com/MelissaPR24/ML_MelissaPR.git)
 
-This is an exmaple of a US COVID used dashboard I made utilizing Google Data Sudio.
+Performed a k-NN classification model utilizing open data on 5000 customers from a financial institution to predict whether a liability customer would accept a personal loan offer.
+ 
+### 5. COVID-19 Dashboard - [Visual](https://github.com/MelissaPR24/mpaniagua.git) 
 
-### 5. Sankey Diagram - [Visual](https://github.com/MelissaPR24/mpaniagua.git) 
+This is an exmaple of a US COVID dashboard I made utilizing Google Data Sudio.
+
+### 6. Sankey Diagram - [Visual](https://github.com/MelissaPR24/mpaniagua.git) 
 
 Built a Sankey flow Diagram to understand Americans’ academic path and identify the highest dropout rates to get insights.
 
