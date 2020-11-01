@@ -36,4 +36,4 @@ Built a Sankey flow Diagram to understand Americans’ academic path and identif
 
 ## Resume 
 
-Please click [Here](https://github.com/MelissaPR24/mpaniagua.git) you can find my curriculum for further information. 
+Please click [Here](https://github.com/MelissaPR24/mpaniagua.git) to find my curriculum for further information. 
