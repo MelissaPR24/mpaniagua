@@ -10,13 +10,21 @@ Some of my interests are data visualization, data mining and analytics, and mach
 
 ## Projects
 
+### 1. ABC Wireless Inc: Telephone Company Prediction Model
+
+Constructed supervised models like logistic regression and decision tree to predict which customers will churn or not based on several variables.
+
+### 2. CRISA Asian Market Research Agency: Consumers Segmentation - [Document](https://github.com/MelissaPR24/ML_MelissaPR.git)
+
+Designed an unsupervised K-means machine learning algorithm to generate cluster market segmentation based on their similarities in order to target the company's marketing promotions more efficiently, save time and money, and provide accurate rewards to its clients.
+
 ### 1. American Universities Clustering Model - [Document](https://github.com/MelissaPR24/ML_MelissaPR.git)
 
 Implemented unsupervised K-means model to cluster universities based on different measurements to get insights and make predictions.
 
 ### 2. Flight Status Classification Model - [Document](https://github.com/MelissaPR24/ML_MelissaPR.git)
 
-Classified flight status utilizing a Naive Bayes supervised model to predict if a new flight with being classified as delayed or on-time.
+Classified flight status utilizing a Naive Bayes supervised model to predict if a new flight will be classified as delayed or on-time.
 
 ### 3. Transportation Problem in LP - [Document](https://github.com/MelissaPR24/QM_MelissaPR.git)
 
@@ -25,6 +33,10 @@ Developed an LP model to find the optimal solution to minimize the combined cost
 ### 4. Acceptance Loan Classification Model - [Document](https://github.com/MelissaPR24/ML_MelissaPR.git)
 
 Performed a k-NN classification model utilizing open data on 5000 customers from a financial institution to predict whether a liability customer would accept a personal loan offer.
+
+### 6. Mathematical Optimization Model - [Document](https://github.com/MelissaPR24/QM_MelissaPR.git)
+
+Defined, formulated, and solved a mathematical optimization model - linear programming model to efficiently assigned students in groups, in which the main goal is to ensure to maximize the chance that each group will do well on a class project based on decision variables.
  
 ### 5. COVID-19 Dashboard - [Visual](https://github.com/MelissaPR24/mpaniagua.git) 
 
