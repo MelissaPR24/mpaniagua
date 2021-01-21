@@ -32,11 +32,11 @@ Developed an LP model to find the optimal solution to minimize the combined cost
 
 ### 6. Acceptance Loan Classification Model - [Document](https://github.com/MelissaPR24/ML_MelissaPR.git)
 
-Performed a k-NN classification model utilizing open data on 5000 customers from a financial institution to predict whether a liability customer would accept a personal loan offer.
+Performed a k-NN classification model utilizing open data on 5000 customers from a financial institution to predict whether a liable customer would accept a personal loan offer.
 
 ### 7. Mathematical Optimization Model - [Document](https://github.com/MelissaPR24/QM_MelissaPR.git)
 
-Defined, formulated, and solved a mathematical optimization model - linear programming model to efficiently assigned students in groups, in which the main goal is to ensure to maximize the chance that each group will do well on a class project based on decision variables.
+Defined, formulated, and solved a mathematical optimization model - linear programming model to efficiently assign students in groups. The main goal of this project is to maximize the chance that each group will do well on a class project based on decision variables.
  
 ### 8. COVID-19 Dashboard - [Visual](https://github.com/MelissaPR24/mpaniagua.git) 
 
